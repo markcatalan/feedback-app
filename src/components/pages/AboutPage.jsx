@@ -1,7 +1,6 @@
 import React from "react";
-import { Link, Routes, Route } from "react-router-dom";
+import { Link } from "react-router-dom";
 import Card from "../common/Card";
-import { useNavigate } from "react-router-dom";
 
 function AboutPage() {
   return (
